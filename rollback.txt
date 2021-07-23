@@ -1,0 +1,2 @@
+no snmp-server host 10.1.1.1 version 2c community
+no snmp-server host 10.1.1.1 version 2c community
