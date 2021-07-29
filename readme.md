@@ -1,6 +1,6 @@
 # ios_config
 
-**ios_config.py – configure a set of commands to multiple devices listed**
+**ios_config.py – configure a set of commands to multiple devices**
 
 _James Sanders ' <ciscoguru72' *at* 'yahoo' *dot* 'com' *dot 'au'_
 
